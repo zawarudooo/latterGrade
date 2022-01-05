@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class main {
-    public static void main (int args) {
+    public static void main (String[] args) {
 
         System.out.print("Enter the score = ");
         try{

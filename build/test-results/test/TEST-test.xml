@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-05T09:27:00" hostname="LAPTOP-FVR1UO7G" time="0.027">
+<testsuite name="test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-01-05T10:04:04" hostname="LAPTOP-FVR1UO7G" time="0.024">
   <properties/>
-  <testcase name="TestEquivalencePartitioning()" classname="test" time="0.025"/>
+  <testcase name="TestEquivalencePartitioning()" classname="test" time="0.022"/>
   <testcase name="TestboundaryValue()" classname="test" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
